@@ -1,6 +1,6 @@
-# kexin-ai-video
+# efore-ai-video
 
-科信全产品 AI 视频项目管理：产品资料、需求、脚本、分镜、提示词、工具评测、素材索引与成片交付。
+Efore 全产品 AI 视频项目管理：产品资料、需求、脚本、分镜、提示词、工具评测、素材索引与成片交付。
 
 本仓库覆盖公司全产品线。第一期按已提交需求，制作 IBUE48100、IBUE48200、ESmart-Li48160 的展会及展厅视频。
 
@@ -21,7 +21,7 @@
 | 同题测试、评分与停止条件 | [样片测试方案](projects/phase-01/03-poc-plan.md) |
 | 原费用方案审阅及预算模型 | [成本校准](projects/phase-01/04-budget-method.md) |
 | 逐镜头记录、费用、交付及变更模板 | [执行模板](templates/production-records.md) |
-| 实际待办与依赖 | [GitHub Issues](https://github.com/ahhhhzzz/kexin-ai-video/issues) |
+| 实际待办与依赖 | [GitHub Issues](https://github.com/ahhhhzzz/efore-ai-video/issues) |
 
 ## 使用方式
 
@@ -35,12 +35,12 @@
 
 | 任务 | 建议窗口 | 依赖 |
 | --- | --- | --- |
-| [#1 需求、资料与责任确认](https://github.com/ahhhhzzz/kexin-ai-video/issues/1) | D1 | 需求及产品代表参与 |
-| [#2 工具初筛及试验费用](https://github.com/ahhhhzzz/kexin-ai-video/issues/2) | D2 | #1 |
-| [#3 同题样片与费用实测](https://github.com/ahhhhzzz/kexin-ai-video/issues/3) | D3–D4 | #1、#2 |
-| [#4 分镜和正式预算](https://github.com/ahhhhzzz/kexin-ai-video/issues/4) | D5–D6 | #1、#3 |
-| [#5 素材与粗剪](https://github.com/ahhhhzzz/kexin-ai-video/issues/5) | D7–D13 | #4 |
-| [#6 评审、交付与复盘](https://github.com/ahhhhzzz/kexin-ai-video/issues/6) | D14–D18 | #5 |
+| [#1 需求、资料与责任确认](https://github.com/ahhhhzzz/efore-ai-video/issues/1) | D1 | 需求及产品代表参与 |
+| [#2 工具初筛及试验费用](https://github.com/ahhhhzzz/efore-ai-video/issues/2) | D2 | #1 |
+| [#3 同题样片与费用实测](https://github.com/ahhhhzzz/efore-ai-video/issues/3) | D3–D4 | #1、#2 |
+| [#4 分镜和正式预算](https://github.com/ahhhhzzz/efore-ai-video/issues/4) | D5–D6 | #1、#3 |
+| [#5 素材与粗剪](https://github.com/ahhhhzzz/efore-ai-video/issues/5) | D7–D13 | #4 |
+| [#6 评审、交付与复盘](https://github.com/ahhhhzzz/efore-ai-video/issues/6) | D14–D18 | #5 |
 
 ## 状态约定
 
