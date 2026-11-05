@@ -18,7 +18,7 @@ Efore 全产品 AI 视频项目管理：产品资料、需求、脚本、分镜�
 | 关键需求与待确认差异 | [需求基线草案](projects/phase-01/01-requirements.md) |
 | 阶段、责任、排期及交付 | [执行流程](projects/phase-01/02-workflow-and-schedule.md) |
 | Kling、Seedance、Vidu、MiniMax、Runway 初筛 | [工具调研](research/ai-video-tools-2026-11-05.md) |
-| 7 家厂商、11 个版本的评分、规格与成本（含可调权重及来源） | [模型对比 Excel](research/AI视频模型对比与评分_20261105.xlsx) |
+| 7 家厂商、11 个版本的评分、规格与成本（含可调权重及来源） | [模型对比 Excel](research/AI视频模型对比与评分_20261105.xlsx) · [Markdown 版](research/AI视频模型对比与评分_20261105.md) |
 | 同题测试、评分与停止条件 | [样片测试方案](projects/phase-01/03-poc-plan.md) |
 | 原费用方案审阅及预算模型 | [成本校准](projects/phase-01/04-budget-method.md) |
 | 逐镜头记录、费用、交付及变更模板 | [执行模板](templates/production-records.md) |
